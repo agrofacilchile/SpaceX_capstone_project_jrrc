@@ -1,6 +1,6 @@
 # SpaceX_capstone_project_jrrc
 #
-# Contenedor de los archivos de trabajo final del curso Ciencia de datos con Pytho, de IBM
+# Contenedor de los archivos de trabajo final del curso Ciencia de datos con Python, de IBM.
 #
 #Notas previas:
 # los ejercicios de labortorio IBM fueron descargados desde la plataforma oficial IBM 
