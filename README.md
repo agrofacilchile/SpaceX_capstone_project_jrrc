@@ -1,4 +1,5 @@
-![image](https://github.com/agrofacilchile/SpaceX_capstone_project_jrrc/assets/131489735/cf10b1c2-d772-4524-8aff-91956a1af6d1)## SpaceX_capstone_project_jrrc
+![image](https://github.com/agrofacilchile/SpaceX_capstone_project_jrrc/assets/131489735/cf10b1c2-d772-4524-8aff-91956a1af6d1)
+## SpaceX_capstone_project_jrrc
 ### Contenedor de los archivos del trabajo final del curso Ciencia de datos con Python, de IBM.
 #### Notas previas:
 #### 1.- los ejercicios de labortorio IBM fueron descargados desde la plataforma oficial IBM, y trabajados de modo local en Anaconda Jupiter Notebook.
